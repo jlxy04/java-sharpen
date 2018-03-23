@@ -26,6 +26,7 @@ public class testServlet extends HttpServlet {
 		System.out.println(ss);
 		response.getWriter().write("servlet执行完成！！！！！！！！！！！！！");
 		System.out.println("出servlet来了..................");
+		System.out.println("新增功能");
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
