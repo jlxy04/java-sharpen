@@ -7,7 +7,7 @@ package com.test;
  */
 public class Test {
 
-	public final static String ss = "复制qian";
+	public final static String ss = "复制qian11";
 	
 	/**
 	 * @param args
